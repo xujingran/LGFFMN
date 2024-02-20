@@ -3,6 +3,7 @@ the implementation of the paper"Local-Global Feature Fusion Network for Efficien
 
 # group-by-group manner
 The covariance matrix of the CAVE dataset, value 1 indicates strong covariance, and values decrease as correlation decreases.
+
 ![image](https://github.com/xujingran/LGFFMN/assets/61618979/ee2f5c05-50db-4d04-9d74-0b0fb7c4ecb4)
 
 Illustration of higher similarity in adjacent bands. The similarity values of the CAVE dataset between the 5th, 15th, and 25th bands and other bands are shown, respectively.
